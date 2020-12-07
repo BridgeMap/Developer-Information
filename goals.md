@@ -20,6 +20,7 @@ And to have implemented/created the following:
 
 ### Possibilities for expansion
 
+- Resources section
 - Facilitate volunteer running workshops? for young people and organisations? 
 - Opportunities for professionals to share their skills with young people. 
 e.g. as a developer you can sign up on the site to run a course and once its been approved by the administrator, it will be available for young people to register onto.
