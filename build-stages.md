@@ -1,4 +1,5 @@
-Build stages
+# Build stages
+
 We will be building out the website in stages. Our current breakdown is as follows:
 
 Version 1
